@@ -40,7 +40,7 @@ This project uses the [German Traffic Sign Recognition Benchmark (GTSRB)](https:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Hit1000/road-sign-classifier.git
+git clone https://github.com/RNA62831/Road-Sign-Classifier.git
 cd road-sign-classifier
 ```
 
@@ -105,8 +105,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - German Traffic Sign Recognition Benchmark (GTSRB) dataset team
 
-## 📧 Contact
 
-Your Name - [hiteshsingla209@gmail.com](mailto:hiteshsingla209@gmail.com)
-
-Project Link: [https://github.com/Hit1000/road-sign-classifier-Python](https://github.com/Hit1000/Road-Sign-Classifier-Python)
